@@ -34,7 +34,7 @@
   ·
   <a href="https://huggingface.co/collections/furonghuang-lab/easy2hard-bench-666a0d26f3932ecb92c112c2"><strong>[Dataset]</strong></a>
   ·
-  <a href=""><strong>[Project page]</strong></a>
+  <a href="https://easy2hardbench.github.io/home/"><strong>[Project page]</strong></a>
   ·
   <a href=""><strong>[X (Twitter)]</strong></a>
 
@@ -53,7 +53,7 @@ The codebase for the paper "Easy2Hard-Bench: Standardized Difficulty Labels for 
 Please cite our work if you find it is helpful:
 ```
 @inproceedings{
-          anonymous2024easyhardbench,
+          ding2024easyhardbench,
           title={Easy2Hard-Bench: Standardized Difficulty Labels for Profiling {LLM} Performance and Generalization},
           author={Mucong Ding and Chenghao Deng and Jocelyn Choo and Zichu Wu and Aakriti Agrawal and Avi Schwarzschild and Tianyi Zhou and Tom Goldstein and John Langford and Anima Anandkumar and Furong Huang},
           booktitle={The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
